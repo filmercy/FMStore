@@ -1,11 +1,7 @@
 <template>
-  <div>MY VUE APP</div>
+  <FmProductGrid></FmProductGrid>
 </template>
 
-<script setup>
-definePageMeta({
-  layout: "default",
-});
-</script>
+<script setup></script>
 
 <style lang="scss" scoped></style>

@@ -13,17 +13,9 @@
         </ul>
       </nav>
     </header>
-    <div class="container mx-auto p-4">
-      <!-- page renderes here -->
-      <slot></slot>
-    </div>
   </div>
 </template>
 
-<script></script>
+<script setup></script>
 
-<style scoped>
-.router-link-exact-active {
-  color: red;
-}
-</style>
+<style lang="scss" scoped></style>
